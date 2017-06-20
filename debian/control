@@ -1,0 +1,19 @@
+Source: edubuntu-live-welcome
+Section: doc
+Priority: optional 
+Maintainer: Edubuntu Developers <edubuntu-devel@lists.ubuntu.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://edubuntu.org
+
+Package: edubuntu-live-welcome
+Architecture: all 
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-webkit, python-gtk2
+Description: displays a greeting and introduction to Edubuntu on login
+ Displays an introduction to Edubuntu on login. It is meant to give
+ users who are completely new to Edubuntu (and Ubuntu for that matter)
+ a basic idea of how to navigate the system and what to expect.
+ .
+ It also informs users of tools and software that aren't available or
+ won't work in the live session.
+

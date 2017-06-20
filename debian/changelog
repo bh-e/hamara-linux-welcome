@@ -1,0 +1,17 @@
+edubuntu-live-welcome (12.03) natty; urgency=low
+
+  * Slide updates
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Thu, 06 Jan 2011 14:21:47 -0500
+
+edubuntu-live-welcome (12.02~ppa1) natty; urgency=low
+
+  * Load local links properly
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Tue, 28 Dec 2010 10:17:06 -0500
+
+edubuntu-live-welcome (12.01) natty; urgency=low
+
+  * Initial Release 
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Thu, 16 Dec 2010 14:03:36 -0500

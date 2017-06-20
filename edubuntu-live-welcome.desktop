@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Edubuntu Live Welcome
+X-GNOME-FullName=Edubuntu Live Welcome
+GenericName=Welcome Slideshow
+Categories=GNOME;GTK;Utility;
+Comment=A basic introduction to the Edubuntu Desktop
+Icon=edubuntu
+Exec=edubuntu-live-welcome
+#AutostartCondition=GNOME /apps/gwibber/preferences/autostart
+X-GNOME-Autostart-Delay=1
+NoDisplay=true

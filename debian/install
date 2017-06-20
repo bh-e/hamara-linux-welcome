@@ -1,0 +1,4 @@
+slideshows usr/share/edubuntu/
+edubuntu-live-welcome usr/bin/
+edubuntu-live-welcome.desktop etc/xdg/autostart/
+edubuntu-live-welcome.desktop usr/share/applications/
